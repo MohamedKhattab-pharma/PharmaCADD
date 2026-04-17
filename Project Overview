@@ -1,0 +1,36 @@
+PharmaCADD/
+│
+├── README.md
+├── environment.yml / requirements.txt
+├── data/
+│   ├── raw/
+│   ├── trimmed/
+│   ├── processed/
+│
+├── workflow/
+│   ├── 01_quality_control/
+│   ├── 02_trimming/
+│   ├── 03_alignment/
+│   ├── 04_variant_calling/
+│   ├── 05_annotation/
+│
+├── results/
+│   ├── qc_reports/
+│   ├── vcf/
+│   ├── annotated_variants/
+│   ├── figures/
+│
+├── scripts/
+│   ├── qc.sh
+│   ├── trimming.sh
+│   ├── alignment.sh
+│   ├── variant_calling.sh
+│   ├── annotation.py
+│
+├── docs/
+│   ├── methodology.md
+│   ├── interpretation.md
+│   ├── limitations.md
+│
+└── notebooks/
+    ├── exploratory_analysis.ipynb
