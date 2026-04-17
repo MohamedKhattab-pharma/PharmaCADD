@@ -1,0 +1,19 @@
+name: pharmacogenomics-envs
+
+channels:
+
+* bioconda
+* conda-forge
+* defaults
+
+dependencies:
+
+* fastqc=0.12.1
+* multiqc=1.21
+* trimmomatic=0.39
+* bwa=0.7.17
+* samtools=1.19
+* bcftools=1.19
+* vcftools=0.1.16
+* snpeff=5.2
+* picard=3.1.1
