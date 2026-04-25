@@ -1,4 +1,4 @@
-# PharmaCADD
+# PharmaCADD - In Progress
 Pharmacogenomics-Guided Optimization of Praziquantel: Variant Discovery and Target Identification in Zimbabwean Populations
 
 ### 🧬 Project Overview
