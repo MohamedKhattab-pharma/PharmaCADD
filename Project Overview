@@ -20,7 +20,7 @@ PharmaCADD/
 │   ├── trimming.sh
 │   ├── alignment.sh
 │   ├── variant_calling.sh
-│   ├── annotation.py
+│   ├── Functional Annotation.sh
 │
 ├── docs/
 │   ├── methodology.md
