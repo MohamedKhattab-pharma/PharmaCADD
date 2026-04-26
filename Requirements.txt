@@ -30,6 +30,19 @@ Reference Genome Utilities
 Picard tools v3.1.1
 
 Environment
+- GATK4
+- bcftools
+- samtools
+- tabix/htslib
+- Ensembl VEP (with cache)
+- wget
+- bash (Linux/Ubuntu)
+
+### Optional databases
+- PharmGKB local dataset
+- ClinVar VCF (optional enrichment layer)
+
+
 
 Linux (Ubuntu recommended)
 Bash ≥ 5.0
