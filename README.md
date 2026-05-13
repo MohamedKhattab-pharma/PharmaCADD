@@ -94,5 +94,5 @@ Protein Mapping (UniProt)
         ↓
 Target Filtering (CYP / SLC / ABC / UGT)
         ↓
-MOE-Based Molecular Docking
+ Molecular Docking (MZDock, AutodockVina, UCFChimera)
 
